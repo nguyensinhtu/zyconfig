@@ -1,0 +1,23 @@
+/venv/
+/.mypy_cache/
+/tests/test_zyconfig/.mypy_cache/
+/tests/test_zyconfig/.pytest_cache/
+
+# byte-compiled
+__pycache__/
+*.py[cod]
+
+# packaging
+*.egg
+*.egg-info/
+.installed.cfg
+
+# ide
+.idea/workspace.xml
+
+#db
+*.rdb
+
+
+
+.idea
