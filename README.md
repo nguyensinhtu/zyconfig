@@ -53,5 +53,5 @@ conf.server.nosql_server.get('missing_key')
 
 ## Installation
 ```cmd
-pip install pip install git+https://github.com/nguyensinhtu/zyconfig.git#egg=zyconfig
+pip install git+https://github.com/nguyensinhtu/zyconfig.git#egg=zyconfig
 ```
